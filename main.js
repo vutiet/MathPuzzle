@@ -7,7 +7,7 @@ var Main = React.createClass({
   render() {
     return <View style={styles.container}>
              <View style={styles.tile}>
-               <Text style={styles.letter}>A</Text>
+               <Text style={styles.letter}>B</Text>
              </View>
            </View>;
   },
